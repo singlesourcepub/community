@@ -1,6 +1,6 @@
 # Welcome to the Single Source Publishing Community
 
-![](https://avatars.githubusercontent.com/u/84844183?s=400&u=90e37f2605012e83440afea3360e4b116d3a47ad&v=4)
+![](ssp-community-logo.png)
 
 As we are just about to prepare everything here, please head to the following pages for more information:
 
