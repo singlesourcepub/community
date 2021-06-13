@@ -2,6 +2,8 @@
 
 ![](ssp-community-logo.png)
 
+*Logo design by [@tarleb](https://github.com/tarleb/)*
+
 As we are just about to prepare everything here, please head to the following pages for more information:
 
 - [Wiki](https://github.com/singlesourcepub/community/wiki)
