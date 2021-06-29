@@ -1,6 +1,6 @@
 Community Members: Single Source Publishing Community
 
-Find out how to become a member on the [Wiki](wiki/Membership).
+Find out how to become a member on the [Wiki](https://github.com/singlesourcepub/community/wiki/Membership).
 
 ## How to become a member
 
