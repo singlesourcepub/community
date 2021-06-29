@@ -1,6 +1,6 @@
 # Welcome to the Single Source Publishing Community
 
-`#SSCP`
+`#SSPC`
 
 The Single Source Publishing Community (SSPC) is a network stakeholders from the Open Science community that are interested in [Single Source Publishing](https://en.wikipedia.org/wiki/Single-source_publishing) (SSP) for scholarly purposes – developing open-source software and advocacy.   
 
