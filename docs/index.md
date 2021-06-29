@@ -1,5 +1,3 @@
-# Welcome to the Single Source Publishing Community
-
 `#SSPC`
 
 The Single Source Publishing Community (SSPC) is a network stakeholders from the Open Science community that are interested in [Single Source Publishing](https://en.wikipedia.org/wiki/Single-source_publishing) (SSP) for scholarly purposes – developing open-source software and advocacy.   
@@ -16,5 +14,8 @@ A number of activities are organised by the community:
  - as monthly '[SSPC Show & Tell](https://github.com/singlesourcepub/community/wiki/SSPC-Show-&-Tell)' where participants will be invited to show off their products, projects, and research; lastly 
  - occasional BarCamps / Book Dashes aimed at publishing guides on key SSP topics.
  
-For more information check our the following | [Wiki](https://github.com/singlesourcepub/community/wiki) | [Discussion](https://github.com/singlesourcepub/community/discussions). 
+For more information check the following [Wiki](https://github.com/singlesourcepub/community/wiki) & [discussion board](https://github.com/singlesourcepub/community/discussions). 
+
+---
+Single Source Publishing Community (SSPC) — Unless otherwise stated: All content © The Authors 2021, Licensed as Creative Commons — Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ast)) from this [Github repository](https://github.com/singlesourcepub/community). See [here](https://github.com/singlesourcepub/community/wiki/Terms-and-Conditions) for more details. Please see our community [Code of Conduct](Code-of-Conduct).
 
