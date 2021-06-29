@@ -5,7 +5,7 @@ Find out how to become a member on the [Wiki](https://github.com/singlesourcepub
 ## How to become a member
 
 1. Agree to the above: Adhere to the SSPC Code of Conduct; and offer to help supporing SSPC activities.
-1. Add your name and ORCID ID to the members list below via a pull request. If you need help with this please ask on the [discussion board](community/discussions).
+1. Add your name and ORCID ID to the members list below via a pull request. If you need help with this please ask on the [discussion board](https://github.com/singlesourcepub/community/discussions).
 
 Arranged by family name alphabetically:
 
