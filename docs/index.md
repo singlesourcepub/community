@@ -1,4 +1,4 @@
-![](../ssp-community-logo.png)
+![logo](https://raw.githubusercontent.com/singlesourcepub/community/main/ssp-community-logo.png)
 
 *Logo design by [@tarleb](https://github.com/tarleb/)*
 
