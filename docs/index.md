@@ -12,11 +12,13 @@ The Single Source Publishing Community (SSPC) is a network of stakeholders from 
 
 > Single Source Publishing is an approach to publishing workflows to easily produce diverse publication output formats from only a single data source – e.g., from one dataset in Markdown or XML to make a multi-format publications as HTML, PDF, and JATS/XML, etc.
 
-There are many different approaches to SSP and a variety of benefits of SSP on different aspects of the research lifecycle and a goal of the community is to be a meeting place to exchange ideas from these diverse practices.
+There are many different approaches to SSP and a variety of benefits of SSP on different aspects of the research lifecycle. Thus, a goal of the community is to be a meeting place to exchange ideas from these diverse practices. 
+
+Let's collaborate more and compete less! 
 
 ## Who can join the community?
 
-The community is open to newcomers and experts. 
+The community is open to newcomers and experts interested in independent, interoperable and standard-driven approaches to scholarly publishing.
 
 ## What's going on here?
 
