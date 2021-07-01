@@ -1,7 +1,9 @@
 <figure style="margin: 0">
   <img src="https://raw.githubusercontent.com/singlesourcepub/community/main/ssp-community-logo.png" alt="Logo of the community showing five colored sheets of paper in a star-like form" style="width: 180px">
-  <figcaption>Logo design by <a href="https://github.com/tarleb/">\@tarleb</a></figcaption>
+  <figcaption>Logo design by <a href="https://github.com/tarleb/">@tarleb</a></figcaption>
 </figure>
+
+---
 
 `#SSPC`
 
