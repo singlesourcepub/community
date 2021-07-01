@@ -9,5 +9,6 @@ Find out how to become a member on the [Wiki](https://github.com/singlesourcepub
 
 Arranged by family name alphabetically:
 
+ - Axel Dürkop; ORCID ID: [0000-0002-8154-8988](https://orcid.org/0000-0002-8154-8988)
  - Simon Worthington; ORCID ID: [0000-0002-8579-9717](https://orcid.org/0000-0002-8579-9717)
  - Add your name here to become a member
