@@ -7,7 +7,7 @@
 
 ---
 
-`#SSPC`
+`#SiSoPub`
 
 ## What's this community all about?
 
