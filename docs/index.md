@@ -36,4 +36,5 @@ For more information check the following [Wiki](https://github.com/singlesourcep
 ---
 Single Source Publishing Community (SSPC) — Unless otherwise stated: All content © The Authors 2021, Licensed as Creative Commons — Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ast)) from this [Github repository](https://github.com/singlesourcepub/community). See [here](https://github.com/singlesourcepub/community/wiki/Terms-and-Conditions) for more details. Please see our community [Code of Conduct](Code-of-Conduct).
 
-Imprint (tbd) : [Data privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+[Imprint](imprint.md) : [Data privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
+
