@@ -13,7 +13,12 @@ Find out how to become a member on the [Wiki](https://github.com/singlesourcepub
        ![2021-07-02_12-23](https://user-images.githubusercontent.com/1590241/124260773-5c657c00-db30-11eb-84e8-2251c04e986d.png)
     1. As you do not have the rights to edit this page directly, a fork (copy) of it will be made in your account. The message will read like this:
        ![2021-07-02_12-22](https://user-images.githubusercontent.com/1590241/124260588-232d0c00-db30-11eb-86c1-cd64adaa4959.png)
-    1. When you have finished editing, save your changes and make a pull request. That means, you want the maintainers of this repositories to merge your additions with this file.
+    1. When you have finished editing, propose your changes. That means, save them.
+       ![2021-07-02_12-30](https://user-images.githubusercontent.com/1590241/124261706-6471eb80-db31-11eb-8e05-ca8999b1a461.png)
+    1. Finally make a pull request. That means, you want the maintainers of this repositories to merge your additions with this file.
+       ![2021-07-02_12-29](https://user-images.githubusercontent.com/1590241/124261539-32608980-db31-11eb-95d6-aa48bab2d4b6.png)
+
+
 
 ## The members list
 
