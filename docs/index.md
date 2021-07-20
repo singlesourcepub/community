@@ -1,11 +1,13 @@
+# Welcome to the Single Source Publishing Community
+
 <figure style="margin: 0">
-  <img src="https://raw.githubusercontent.com/singlesourcepub/community/main/ssp-community-logo.png" alt="Logo of the community showing five colored sheets of paper in a star-like form" style="width: 180px">
+  <img src="https://raw.githubusercontent.com/singlesourcepub/logo/master/logo.svg" alt="Logo of the community showing five colored sheets of paper in a star-like form" style="transform: scale(0.5);">
   <figcaption>Logo design by <a href="https://github.com/tarleb/">@tarleb</a></figcaption>
 </figure>
 
 ---
 
-`#SSPC`
+`#SiSoPub`
 
 ## What's this community all about?
 
@@ -36,5 +38,4 @@ For more information check the following [Wiki](https://github.com/singlesourcep
 ---
 Single Source Publishing Community (SSPC) — Unless otherwise stated: All content © The Authors 2021, Licensed as Creative Commons — Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ast)) from this [Github repository](https://github.com/singlesourcepub/community). See [here](https://github.com/singlesourcepub/community/wiki/Terms-and-Conditions) for more details. Please see our community [Code of Conduct](Code-of-Conduct).
 
-[Imprint](imprint.md) : [Data privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
-
+[Imprint](docs/imprint.md) : [Data privacy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
