@@ -28,4 +28,5 @@ Arranged by family name alphabetically:
  - Simon Worthington; ORCID ID: [0000-0002-8579-9717](https://orcid.org/0000-0002-8579-9717)
  - Tim Boxhammer; ORCID ID: [0000-0002-9632-5947](https://orcid.org/0000-0002-9632-5947)
  - Isabella Meinecke; ORCID ID: [0000-0001-8337-3619](https://orcid.org/0000-0001-8337-3619)
+ - Daniel Beucke; ORCID ID: [0000-0003-4905-1936](https://orcid.org/0000-0003-4905-1936)
  - Add your name here to become a member. See instructions above.
