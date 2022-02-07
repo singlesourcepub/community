@@ -29,4 +29,5 @@ Arranged by family name alphabetically:
  - Tim Boxhammer; ORCID ID: [0000-0002-9632-5947](https://orcid.org/0000-0002-9632-5947)
  - Isabella Meinecke; ORCID ID: [0000-0001-8337-3619](https://orcid.org/0000-0001-8337-3619)
  - Daniel Beucke; ORCID ID: [0000-0003-4905-1936](https://orcid.org/0000-0003-4905-1936)
+ - Ronald Steffen; ORCID ID: [0000-0002-1001-4188](https://orcid.org/0000-0002-1001-4188)
  - Add your name here to become a member. See instructions above.
