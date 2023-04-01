@@ -53,14 +53,18 @@ board][].
 
 ------------------------------------------------------------------------
 
-Single Source Publishing Community (SSPC) — Unless otherwise stated: All
-content © The Authors 2021, Licensed as Creative Commons —
-Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0][]) from this
-[GitHub repository][]. See [here][] for more details. Please see our
-community [Code of Conduct][].
+Single Source Publishing Community (SSPC)\
+Copyright: © The Authors 2021-2023\
+License: Creative Commons — Attribution-ShareAlike 4.0 International
+([CC BY-SA 4.0][]).
 
-[Imprint][] : [Data privacy][]
+The website is build from the [singlesourcepub/community][] Github
+repository. See [Terms and Conditions][] page on the wiki for more
+details.
 
+[Imprint][]: [Data privacy][]
+
+  [singlesourcepub/community]: https://github.com/singlesourcepub/community
   [Single Source Publishing]: https://en.wikipedia.org/wiki/Single-source_publishing
   [discussion board]: https://github.com/singlesourcepub/community/discussions
   [SSPC Show & Tell]: https://github.com/singlesourcepub/community/wiki/SSPC-Show-&-Tell
@@ -68,6 +72,5 @@ community [Code of Conduct][].
   [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ast
   [GitHub repository]: https://github.com/singlesourcepub/community
   [here]: https://github.com/singlesourcepub/community/wiki/Terms-and-Conditions
-  [Code of Conduct]: Code-of-Conduct
   [Imprint]: docs/imprint.md
   [Data privacy]: https://docs.github.com/en/github/site-policy/github-privacy-statement
