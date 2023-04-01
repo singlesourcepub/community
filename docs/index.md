@@ -71,6 +71,6 @@ details.
   [Wiki]: https://github.com/singlesourcepub/community/wiki
   [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ast
   [GitHub repository]: https://github.com/singlesourcepub/community
-  [here]: https://github.com/singlesourcepub/community/wiki/Terms-and-Conditions
+  [Terms and Conditions]: https://github.com/singlesourcepub/community/wiki/Terms-and-Conditions
   [Imprint]: imprint.html
   [Data privacy]: https://docs.github.com/en/github/site-policy/github-privacy-statement
