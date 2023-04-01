@@ -72,5 +72,5 @@ details.
   [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ast
   [GitHub repository]: https://github.com/singlesourcepub/community
   [here]: https://github.com/singlesourcepub/community/wiki/Terms-and-Conditions
-  [Imprint]: docs/imprint.md
+  [Imprint]: imprint.html
   [Data privacy]: https://docs.github.com/en/github/site-policy/github-privacy-statement
